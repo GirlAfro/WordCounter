@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="hint_enter_text">Enter text here</string>
+    <string name="button_count">Count</string>
+    <string name="toast_empty_text">Please enter some text</string>
+    <string name="count_words">Words</string>
+    <string name="count_characters">Characters</string>
+</resources>
