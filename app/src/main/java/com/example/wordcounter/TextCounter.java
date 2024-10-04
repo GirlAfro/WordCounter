@@ -1,5 +1,4 @@
 package com.example.wordcounter;
-
 public class TextCounter {
     public static int countWords(String text) {
         if (text == null || text.isEmpty()) {
