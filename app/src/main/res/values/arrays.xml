@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="count_options">
+        <item>@string/count_words</item>
+        <item>@string/count_characters</item>
+    </string-array>
+</resources>
